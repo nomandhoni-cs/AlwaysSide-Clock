@@ -28,7 +28,7 @@
   },
   "manifest": {
     "permissions": [
-      "sidePanel"
+      "sidePanel", "storage"
     ],
     "side_panel": {
       "default_path": "tabs/sidepanel.html"
