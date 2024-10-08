@@ -32,9 +32,6 @@
     ],
     "side_panel": {
       "default_path": "tabs/sidepanel.html"
-    },
-    "host_permissions": [
-      "https://*/*"
-    ]
+    }
   }
 }
